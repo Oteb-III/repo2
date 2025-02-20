@@ -23,45 +23,6 @@
 |   **git status**  | Muestra el estado de los archivos en el directorio de trabajo |  |
 |   **git add**  | Agrega un archivo específico al área de preparación. | Staging |
 |   **git commit -m**  | Crea un nuevo commit con los cambios en el área de preparación. | Commits |
-|   **git add**  | Agrega un archivo específico al área de preparación. | Staging |
-
-
-
-
-
-
-
-
-Revisión de Historial
-Log (Historial)
-
-sh
-git log
-Muestra el historial de commits del repositorio.
-
-Diferencias
-
-sh
-git diff
-Muestra las diferencias entre el directorio de trabajo y el área de preparación.
-
-sh
-git diff <commit1> <commit2>
-Muestra las diferencias entre dos commits.
-
-Sincronización con Repositorio Remoto
-Fetch (Obtener)
-
-sh
-git fetch
-Obtiene los cambios del repositorio remoto sin fusionarlos.
-
-Pull (Actualizar)
-
-sh
-git pull
-Obtiene y fusiona los cambios del repositorio remoto.
-
-Push (Subir)
-
-sh
+|   **git pull**  | Obtiene y fusiona los cambios. | Actualizar  |
+|   **git push**  | sube los cambios al repositorio remoto. |   |
+|   **git rm**  | remover los archivos del disco |   |
