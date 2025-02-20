@@ -26,3 +26,7 @@
 |   **git pull**  | Obtiene y fusiona los cambios. | Actualizar  |
 |   **git push**  | sube los cambios al repositorio remoto. |   |
 |   **git rm**  | remover los archivos del disco |   |
+
+## Git Log
+    - Historial del proyecto:
+  - ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](./img/4.png "Paso 4")
