@@ -29,4 +29,4 @@
 
 ## Git Log
     - Historial del proyecto:
-  - ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](./img/4.png "Paso 4")
+  - ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](./img/3.png "Log")
